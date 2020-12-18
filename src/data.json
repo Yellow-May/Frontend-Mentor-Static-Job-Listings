@@ -12,7 +12,8 @@
     "contract": "Full Time",
     "location": "USA Only",
     "languages": ["HTML", "CSS", "JavaScript"],
-    "tools": []
+    "tools": [],
+    "display": true
   },
   {
     "id": 2,
@@ -27,7 +28,8 @@
     "contract": "Part Time",
     "location": "Remote",
     "languages": ["Python"],
-    "tools": ["React"]
+    "tools": ["React"],
+    "display": true
   },
   {
     "id": 3,
@@ -42,7 +44,8 @@
     "contract": "Part Time",
     "location": "USA Only",
     "languages": ["JavaScript"],
-    "tools": ["React", "Sass"]
+    "tools": ["React", "Sass"],
+    "display": true
   },
   {
     "id": 4,
@@ -57,7 +60,8 @@
     "contract": "Contract",
     "location": "USA Only",
     "languages": ["CSS", "JavaScript"],
-    "tools": []
+    "tools": [],
+    "display": true
   },
   {
     "id": 5,
@@ -66,13 +70,14 @@
     "new": false,
     "featured": false,
     "position": "Software Engineer",
-    "role": "FullStack",
+    "role": "Fullstack",
     "level": "Midweight",
     "postedAt": "1w ago",
     "contract": "Full Time",
     "location": "Worldwide",
-    "languages": ["JavaScript"],
-    "tools": ["Ruby", "Sass"]
+    "languages": ["JavaScript", "Ruby"],
+    "tools": ["Sass"],
+    "display": true
   },
   {
     "id": 6,
@@ -87,7 +92,8 @@
     "contract": "Full Time",
     "location": "UK Only",
     "languages": ["Ruby"],
-    "tools": ["RoR"]
+    "tools": ["RoR"],
+    "display": true
   },
   {
     "id": 7,
@@ -102,7 +108,8 @@
     "contract": "Full Time",
     "location": "Worldwide",
     "languages": ["HTML", "JavaScript"],
-    "tools": ["Sass"]
+    "tools": ["Sass"],
+    "display": true
   },
   {
     "id": 8,
@@ -117,7 +124,8 @@
     "contract": "Full Time",
     "location": "USA Only",
     "languages": ["JavaScript"],
-    "tools": ["Vue", "Sass"]
+    "tools": ["Vue", "Sass"],
+    "display": true
   },
   {
     "id": 9,
@@ -132,7 +140,8 @@
     "contract": "Full Time",
     "location": "Worldwide",
     "languages": ["JavaScript", "Python"],
-    "tools": ["Django"]
+    "tools": ["Django"],
+    "display": true
   },
   {
     "id": 10,
@@ -147,6 +156,7 @@
     "contract": "Part Time",
     "location": "Worldwide",
     "languages": ["JavaScript"],
-    "tools": ["React", "Sass"]
+    "tools": ["React", "Sass"],
+    "display": true
   }
 ]
