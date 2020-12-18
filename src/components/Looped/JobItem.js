@@ -7,7 +7,7 @@ const JobItem = (props) => {
       style={{ display: props.display ? "flex" : "none" }}
     >
       <div className="details">
-        <img src={props.logo} alt="" />
+        <img src={props.logo} alt="logo" />
 
         <div className="info">
           <div className="job-setter">
